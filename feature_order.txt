@@ -1,0 +1,1 @@
+Age,Occupation,Marital_Status,Children (Yes/No),Reported_Income,Interest_Income,Business_Income,Capital_Gains,Other_Income,Educational_Expenses,Healthcare_Costs,Lifestyle_Expenditure,Other_Expenses,Bank_Debited,Credit_Card_Debited
