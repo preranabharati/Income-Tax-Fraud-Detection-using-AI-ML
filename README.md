@@ -3,8 +3,9 @@
 This project investigates the integration of Artificial Intelligence (AI) and Machine 
 Learning (ML) methodologies to identify potential instances of income tax fraud. The 
 escalating challenge of tax evasion necessitates the adoption of advanced technologies to 
-enhance early detection and prevention mechanisms. The study delves into the 
-development and evaluation of predictive models trained on diverse financial datasets, 
+enhance early detection and prevention mechanisms. 
+
+The study delves into the development and evaluation of predictive models trained on diverse financial datasets, 
 aiming to accurately assess reported income against actual income (predicted income).
 Various supervised learning algorithms, such as Decision Trees, Random Forest, Support 
 Vector Machine (SVM), k-Nearest Neighbors (KNN), and Gradient Boosting, are 
